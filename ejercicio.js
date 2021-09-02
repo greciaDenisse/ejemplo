@@ -1,4 +1,4 @@
-function factorial_nuevo(n) {
+function factorial_dato(n) {
     if (n === 0) {
         return 1;
     }
